@@ -1,10 +1,10 @@
 package InterviewQuestions.BinaryTree;
 
 public class TreeNode {
-  int val;
-  TreeNode left, right;
+  public int val;
+  public TreeNode left, right;
 
-  TreeNode(int val) {
+  public TreeNode(int val) {
     this.val = val;
   }
 
